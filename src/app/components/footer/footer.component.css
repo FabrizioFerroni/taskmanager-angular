@@ -1,0 +1,15 @@
+footer{
+  margin-top: 30px;
+  text-align: center;
+}
+
+
+.acerca-de{
+  margin-top: 30px;
+  text-decoration: none;
+  color: steelblue
+}
+
+.acerca-de:hover{
+  color: tomato;
+}

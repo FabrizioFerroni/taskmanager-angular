@@ -1,0 +1,14 @@
+.about{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.about a{
+  margin-top: 30px;
+  text-decoration: none;
+  color: steelblue
+}
+
+.about a:hover{
+  color: tomato;
+}
